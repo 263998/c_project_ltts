@@ -1,9 +1,9 @@
 # Requirements
 ## Introduction
- --- TBD 
+ in this project we have created different functions which will perform various operation on date like checking a valid date, day of week from given date, comparing two dates and many more such functions.
 
 ## Research
-![Description](Link to Pic)
+![Description](Link to Pic) 
 -- Content 
 ## Cost and Features
 ![Description](Link to Pic)
